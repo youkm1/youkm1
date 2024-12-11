@@ -13,7 +13,11 @@ Gyeongmin Yu
 
 
 <h2>I can do..</h2>  </br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<div>
+  <div align="left>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
-<img src="https://simpleicons.org/icons/nestjs.svg"/>
+<img height="32" width="32" src="https://simpleicons.org/icons/nestjs.svg"/>
+</div>
