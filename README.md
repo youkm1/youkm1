@@ -17,5 +17,5 @@ Gyeongmin Yu
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
-  <img height="30" width="70" src= "https://img.shields.io/badge/NestJS-E0234?style=for-the-badge&logo=nestJS&logoColor=red"/>
+  <img height="28" width="70" src= "https://img.shields.io/badge/NestJS-E0234?style=for-the-badge&logo=nestJS"/>
 </div>
