@@ -1,7 +1,10 @@
 Gyeongmin Yu
 ---
 
-- 🔭 동아리
+</br>
+</br>
+</br>
+
   ||Organization|
   |--|---|
   |2024.09~|Google Student Groups|
