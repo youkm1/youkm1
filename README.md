@@ -1,7 +1,7 @@
 Gyeongmin Yu
 ---
 
-- 🔭 I’m currently working on ...
+- 🔭 동아리
   ||Organization|
   |--|---|
   |2024.09~|Google Student Groups|
