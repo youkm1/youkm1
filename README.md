@@ -19,5 +19,5 @@ Gyeongmin Yu
   <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
-<img height="32" width="32" src= "https://img.shields.io/badge/nestJS-red"/>
+<img height="32" width="32" src= "https://img.shields.io/badge/NestJS-E0234?style=for-the-badge&logo=nestJS&logoColor=red"/>
 </div>
