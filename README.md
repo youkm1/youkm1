@@ -12,5 +12,5 @@ Gyeongmin Yu
   |2023.03~2023.12|교내 중앙 개발 동아리(SOLUX)|
 
 
-I can do..
+I can do.. </br>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
