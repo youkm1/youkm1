@@ -23,7 +23,7 @@ Gyeongmin Yu
 <h2>2024 Activities🕺</h2>
   </br>
   
-  ||Activities|
+  |기간|활동|
   |--|---|
   |09~|Weekly Spring Advanced Study|
   |07~|웹앱 개발 진행 중🧏 as server lead|
