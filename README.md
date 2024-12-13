@@ -2,8 +2,6 @@ Gyeongmin Yu
 ---
 
 </br>
-</br>
-</br>
 
   ||Organization|
   |--|---|
@@ -20,3 +18,14 @@ Gyeongmin Yu
   <img height="28" width="77" src="https://img.shields.io/badge/nestJS-E0234E?style=for-the-badge&logo=nestJS"/>
   <img height="28" width="77" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 </div>
+
+
+<h2>2024 Activities🕺</h2>
+  
+  ||Activities|
+  |--|---|
+  |Sep~|Weekly Spring Advanced Study|
+  |Aug~|Developing Webapplication as server lead|
+  |Oct~Nov|WoowaCourse PreCourse for server|
+  |Oct|Participated in a hackathon as server|
+  
