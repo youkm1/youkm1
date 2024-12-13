@@ -24,10 +24,10 @@ Gyeongmin Yu
   </br>
   
   |기간|활동|
-  |--|---|
-  |09~|Weekly Spring Advanced Study|
-  |07~|웹앱 개발 진행 중🧏 as server lead|
-  |10~11|우아한테크코스 프리코스 서버 참여|
-  |03~11|EC2/ECK Hands-on 세미나 발표|
-  |10|교내 해커톤 참여|
+  |---|----|
+  |09월~|Weekly Spring Advanced Study|
+  |07월~|웹앱 개발 진행 중🧏 as server lead|
+  |10월~11월|우아한테크코스 프리코스 서버 참여|
+  |03월~11월|EC2/ECK Hands-on 세미나 발표|
+  |10월|교내 해커톤 참여|
   
