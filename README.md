@@ -22,6 +22,7 @@ Gyeongmin Yu
 
 <h2>2024 Activities🕺</h2>
   </br>
+  
   ||Activities|
   |--|---|
   |Sep~|Weekly Spring Advanced Study|
