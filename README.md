@@ -26,7 +26,7 @@ Gyeongmin Yu
   ||Activities|
   |--|---|
   |Sep~|Weekly Spring Advanced Study|
-  |Aug~|Developing Webapplication as server lead|
-  |Oct~Nov|WoowaCourse PreCourse for server|
-  |Oct|Participated in a hackathon as server|
+  |Aug~|웹앱 개발 진행 중🧏 as server lead|
+  |Oct~Nov|우아한테크코스 프리코스 서버 참여|
+  |Oct|교내 해커톤 참여|
   
